@@ -7,7 +7,7 @@ const education = [
   {
     degree: "Master in Architecture (375 ECTS)",
     institution: "Universitat de Girona",
-    year: "2010",
+    year: "2005-2011",
   },
   {
     degree: "Master in Mathematics for Industry (60 ECTS)",

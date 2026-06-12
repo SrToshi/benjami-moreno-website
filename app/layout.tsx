@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Benjamin Moreno Torres - Data Science & AI Lead",
     description: "Mathematician. Architect. Data Scientist. Based in Berlin.",
-    url: "https://benjami.dev",
+    url: "https://benjami-moreno-torres.com",
     siteName: "Benjamin Moreno Torres",
     locale: "en_US",
     type: "website",
