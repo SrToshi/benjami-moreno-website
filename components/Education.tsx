@@ -1,5 +1,10 @@
 const education = [
   {
+    degree: "MLOps Specialty — Machine Learning Engineer",
+    institution: "Liora / DataScientest · Certified by Université Paris La Sorbonne",
+    year: "Expected Oct 2026",
+  },
+  {
     degree: "PhD, Semantic Web Applications for Materials Discovery",
     institution: "Technische Universitat Berlin",
     year: "Ongoing",

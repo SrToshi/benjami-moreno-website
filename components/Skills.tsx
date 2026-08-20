@@ -37,6 +37,17 @@ const skillGroups = [
       "Technology transfer",
     ],
   },
+  {
+    title: "MLOps & Production",
+    skills: [
+      "Docker · Kubernetes",
+      "MLflow · DVC · Airflow",
+      "FastAPI · BentoML (model serving)",
+      "Prometheus · Grafana (monitoring)",
+      "CI/CD pipelines · Git/GitHub",
+      "LangChain · LLM integration",
+    ],
+  },
 ];
 
 export default function Skills() {
