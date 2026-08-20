@@ -14,8 +14,15 @@ const skillGroups = [
     ],
   },
   {
-    title: "Programming",
-    skills: ["Python (primary)", "R", "C#", "SQL"],
+    title: "MLOps & Production",
+    skills: [
+      "Docker · Kubernetes",
+      "MLflow · DVC · Airflow",
+      "FastAPI · BentoML (model serving)",
+      "Prometheus · Grafana (monitoring)",
+      "CI/CD pipelines · Git/GitHub",
+      "LangChain · LLM integration",
+    ],
   },
   {
     title: "Data & Semantic Web",
@@ -38,15 +45,8 @@ const skillGroups = [
     ],
   },
   {
-    title: "MLOps & Production",
-    skills: [
-      "Docker · Kubernetes",
-      "MLflow · DVC · Airflow",
-      "FastAPI · BentoML (model serving)",
-      "Prometheus · Grafana (monitoring)",
-      "CI/CD pipelines · Git/GitHub",
-      "LangChain · LLM integration",
-    ],
+    title: "Programming",
+    skills: ["Python (primary)", "R", "C#", "SQL"],
   },
 ];
 
