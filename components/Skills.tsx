@@ -2,15 +2,14 @@ const skillGroups = [
   {
     title: "ML / AI",
     skills: [
-      "Bayesian Networks",
-      "Markov Chains",
-      "LSTMs",
+      "Sequential / Active Learning",
       "NLP",
       "Graph Analytics",
       "Clustering",
       "Regression",
       "Ensemble Methods",
-      "Sequential Learning",
+      "LSTMs",
+      "Probabilistic Models (Markov Chains, Bayesian Networks)",
     ],
   },
   {

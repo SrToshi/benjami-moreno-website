@@ -1,10 +1,7 @@
 import Image from "next/image";
 
 const paragraphs = [
-  "I started as a mathematician. Six years studying the structure of things - probability, logic, the language underneath everything. Then, almost as a detour, I spent five years as an architect. Not because the math stopped mattering, but because I wanted to work with systems you could touch.",
-  "Data science found me somewhere between those two worlds. When machine learning started reshaping materials research, structural monitoring, and industrial R&D, I had something rare: the quantitative rigor to model it properly and the physical intuition to know when the model was lying.",
-  "For the past ten years I have been applying that combination - Bayesian Networks, Markov Chains, ontology engineering, NLP - to hard R&D problems: predicting material durability, building FAIR data pipelines, leading a Horizon Europe work package across six research institutions. The work has always been at the edge of what ML can do when the domain is genuinely complex.",
-  "I am now looking for a Data Science or AI Lead role in an organization with serious R&D - somewhere I can lead a team, own a data strategy, and work on problems that require both technical depth and the ability to communicate across disciplines. Berlin preferred, open to hybrid or remote.",
+  "Data and AI leader with 10+ years applying machine learning to R&D problems in materials science, structural monitoring, and market intelligence. Trained as a mathematician and an architect, I specialise in sequential learning for materials discovery, ontology engineering, and NLP, backed by hands-on Python and MLOps practice. At TU Berlin I led the building-demonstrations work package of a Horizon Europe project across six partners in four countries, alongside the project's AI and data research. I am looking for a Data Science or AI Lead role in an organization with strong R&D.",
 ];
 
 function splitLead(text: string) {

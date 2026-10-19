@@ -1,23 +1,23 @@
 const experience = [
   {
-    role: "Work Package Leader and Probabilistic Life Cycle Models",
-    company: "Technische Universitat Berlin",
+    role: "Research Associate, AI & Data · Work Package Leader",
+    company: "Technische Universität Berlin · Horizon Europe project REINCARNATE (circular construction materials)",
     location: "Berlin, Germany",
     dates: "April 2023 - May 2026",
     bullets: [
-      "Led a work package spanning 6 partner organizations across 4 countries, owning deliverables, timelines, and technical integration end-to-end.",
-      "Applied Bayesian Networks and Markov Chains for predictive life-cycle assessment, enabling data-driven material selection decisions.",
-      "Designed ontology-based data architecture (OWL/RDF/SPARQL) for FAIR interoperability across 12+ heterogeneous research datasets.",
-      "Co-authored and coordinated industrial deployment of SLAMD - open-source AI tool for sustainable materials design, published in NanoWorld Journal (2023).",
-      "Supervised 4 graduate researchers in AI and digital construction.",
+      "Led the Demonstrations in Buildings work package, coordinating 6 partner organizations across 4 countries and owning deliverables, timelines, and integration of results.",
+      "Co-authored SLAMD (Sequential Learning App for Materials Discovery), an open-source active-learning tool for sustainable materials design (NanoWorld Journal, 2023), and coordinated its industrial application in the project.",
+      "Designed an ontology-based data architecture (OWL/RDF/SPARQL) for FAIR interoperability across heterogeneous research datasets.",
+      "Developed probabilistic life-cycle models for construction products; first author of project deliverable D1.3 on probabilistic methods for life-cycle assessment.",
+      "Supervised 4 graduate researchers in AI and digital construction, guiding projects from scoping to publication-ready outputs.",
       "Managed stakeholder communication across academia, industry, and EU project officers.",
     ],
     tags: [
-      "Bayesian Networks",
       "Horizon Europe",
       "Ontology Engineering",
       "Python",
       "FAIR Data",
+      "Sequential Learning",
     ],
   },
   {
@@ -48,8 +48,8 @@ const experience = [
   {
     role: "Data Scientist - NLP & Analytics",
     company: "Symanto GmbH",
-    location: "Nurnberg, Germany",
-    dates: "2012 - 2016",
+    location: "Nürnberg, Germany",
+    dates: "Aug 2012 – May 2016",
     bullets: [
       "Built Python and C# tools for social media sentiment analysis and market research.",
       "Contributed to NLP pipelines (text classification, entity extraction) and graph-based influencer analytics.",

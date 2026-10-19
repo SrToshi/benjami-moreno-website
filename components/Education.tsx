@@ -1,8 +1,8 @@
 const education = [
   {
-    degree: "MLOps Specialty — Machine Learning Engineer",
-    institution: "Liora / DataScientest · Certified by Université Paris La Sorbonne",
-    year: "Expected Oct 2026",
+    degree: "MLOps Specialty (Machine Learning Engineer)",
+    institution: "Liora / DataScientest, certified by Université Paris La Sorbonne",
+    year: "Oct 2026",
   },
   {
     degree: "PhD, Semantic Web Applications for Materials Discovery",
@@ -12,7 +12,7 @@ const education = [
   {
     degree: "Master in Architecture (375 ECTS)",
     institution: "Universitat de Girona",
-    year: "2005-2011",
+    year: "2005 – 2011",
   },
   {
     degree: "Master in Mathematics for Industry (60 ECTS)",
